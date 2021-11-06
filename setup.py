@@ -3,7 +3,7 @@ import setuptools
 setuptools.setup(
     name="aiosqlite_pool",
     version="0.0.1",
-    author="RouterGTX",
+    author="Custom",
     author_email="diwanmohamedfaheer@gmail.com",
     description="a connection pool wrapper for aiosqlite",
     packages=setuptools.find_packages(),
